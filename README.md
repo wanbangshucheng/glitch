@@ -54,7 +54,7 @@
   | <URL>/listen | 查看后台监听端口 |
   | <URL>/test   | 测试是否为只读系统 |  
 
-* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/fscarmen2/X-for-Glitch)
+* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/2/X-for-Glitch)
 
 <img width="1092" alt="image" src="https://user-images.githubusercontent.com/92626977/236652842-9f2d644a-f8e3-4b5f-ab7f-45d6309a6642.png">
 
@@ -69,7 +69,7 @@
 
 ## Argo Json 的获取
 
-用户可以通过 Cloudflare Json 生成网轻松获取: https://fscarmen.cloudflare.now.cc
+用户可以通过 Cloudflare Json 生成网轻松获取: https://.cloudflare.now.cc
 
 <img width="842" alt="image" src="https://user-images.githubusercontent.com/62703343/234733074-397bad30-266b-4719-898a-a760a3f0331a.png">
 
@@ -105,11 +105,11 @@
   
 <img width="1643" alt="image" src="https://user-images.githubusercontent.com/92626977/235453084-a8c55417-18b4-4a47-9eef-ee3053564bff.png">
 
-<img width="1667" alt="image" src="https://github.com/fscarmen2/X-for-Glitch/assets/92626977/f124705a-04cc-470b-9781-c56eb2f8d361">
+<img width="1667" alt="image" src="https://github.com/2/X-for-Glitch/assets/92626977/f124705a-04cc-470b-9781-c56eb2f8d361">
   
-<img width="1431" alt="image" src="https://github.com/fscarmen2/X-for-Glitch/assets/92626977/fb0272a0-22bf-4ea2-a985-21cb9384cf4d">
+<img width="1431" alt="image" src="https://github.com/2/X-for-Glitch/assets/92626977/fb0272a0-22bf-4ea2-a985-21cb9384cf4d">
 
-<img width="1527" alt="image" src="https://github.com/fscarmen2/rrr/assets/92626977/91cece0d-cc61-4681-8eae-03f961a16976">
+<img width="1527" alt="image" src="https://github.com/2/rrr/assets/92626977/91cece0d-cc61-4681-8eae-03f961a16976">
 
 
 ## 鸣谢下列作者的文章和项目:
