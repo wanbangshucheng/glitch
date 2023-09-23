@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "server.js",
-  "repository": "https://github.com/wanbangshucheng2/Argo-X-JS-PaaS",
+  "repository": "https://github.com/wanbangshucheng/glitch/",
   "author": "wanbangshucheng",
   "license": "MIT",
   "private": false,
